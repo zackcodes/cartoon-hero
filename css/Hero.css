@@ -1,0 +1,26 @@
+body{
+	margin:  0;
+	font-family: Helvetica, Arial, sans-serif;
+}
+header{
+	background-color: #0B3547;
+	padding-top: 50px;
+ 	padding-bottom: 50px;
+
+}
+header h1{
+	color:  white;
+	text-align: center;
+	font-family: Bebas neue;
+
+}
+header img{
+	/*to get circle make border radius half of width*/
+ border-radius: 230px;
+ width: 450px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ border: 10px solid white;
+
+}
